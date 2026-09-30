@@ -1,0 +1,53 @@
+{
+  "version": "0.6.4",
+  "checked": "2026-09-28",
+  "forms": [
+    {
+      "file": "vorsorgevollmacht.pdf",
+      "type": "official-structure",
+      "source": "BMJ",
+      "stand": "Januar 2023"
+    },
+    {
+      "file": "betreuungsverfuegung.pdf",
+      "type": "official-structure",
+      "source": "BMJ",
+      "stand": "Januar 2023"
+    },
+    {
+      "file": "bankvollmacht.pdf",
+      "type": "official-structure",
+      "source": "BMJ/Deutsche Kreditwirtschaft"
+    },
+    {
+      "file": "zvr-formular-p.pdf",
+      "type": "official-structure",
+      "source": "Zentrales Vorsorgeregister",
+      "stand": "01.02.2024"
+    },
+    {
+      "file": "organspende-entscheidung.pdf",
+      "type": "official-structure",
+      "source": "BIÖG",
+      "stand": "2025"
+    },
+    {
+      "file": "patientenverfuegung.pdf",
+      "type": "official-text-modules",
+      "source": "BMJ",
+      "note": "Kein einheitliches amtliches Formular"
+    },
+    {
+      "file": "schweigepflichtentbindung.pdf",
+      "type": "app-template"
+    },
+    {
+      "file": "bestattungswuensche.pdf",
+      "type": "app-template"
+    },
+    {
+      "file": "testament-vorbereitungsblatt.pdf",
+      "type": "app-template"
+    }
+  ]
+}
