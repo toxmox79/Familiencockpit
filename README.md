@@ -1,3 +1,24 @@
+# Familiencockpit v0.14.0
+
+Neu in v0.14.0: **progressiver Anspruchscheck**.
+
+- neues Cockpit-Modul **„Ansprüche & Leistungen“**
+- 19 häufige bundesweite Leistungen im ersten Regelwerk: Kindergeld, Kinderzuschlag, Bildung & Teilhabe, Elterngeld, Mutterschaftsgeld, Unterhaltsvorschuss, Wohngeld, Grundsicherungsgeld, Arbeitslosengeld, Krankengeld, Kinderkrankengeld, BAB, BAföG, Leistungen der Pflegeversicherung, Pflegegeld, Erwerbsminderungsrente, Grundsicherung im Alter/bei Erwerbsminderung, Witwen-/Witwerrente und Waisenrente
+- drei Ergebnisstufen: **wahrscheinlich relevant**, **prüfen**, **derzeit kein Hinweis**
+- vorhandene Stammdaten und das bisherige Leistungsprofil werden wiederverwendet
+- zusätzliche Prüfdaten liegen in acht eingeklappten Bereichen; kein großes Pflichtformular
+- oben werden höchstens drei Angaben vorgeschlagen, die die Anspruchsprüfung am stärksten verbessern
+- Lebensereignisse wie Kind, Arbeitslosigkeit, Krankheit, Pflege, Ausbildung, Umzug, Einkommensänderung und Todesfall führen direkt zum passenden Bereich
+- nur eindeutige Treffer stehen offen in der Ergebnisliste; weitere mögliche bzw. derzeit nicht passende Leistungen bleiben eingeklappt
+- jede Leistung enthält einen Link zur offiziellen Informationsquelle und den Regelstand **30.09.2026**
+- einkommensabhängige Leistungen werden bewusst nicht scheinexakt aus wenigen Zahlen berechnet; komplizierte Freibeträge, Haushaltskonstellationen und Sonderfälle bleiben bei „prüfen“
+- optionale Anspruchsdaten werden in Backup und verschlüsselbarer Personenfreigabe mitgenommen
+- bestehende lokale Daten aus v0.13 bleiben kompatibel
+
+Wichtig: Der Anspruchscheck ist eine **Vorauswahl**, keine verbindliche Rechts- oder Bewilligungsentscheidung. Länder-, Kommunal-, Arbeitgeber-, Tarif- und einzelne Versicherungsleistungen sind in diesem ersten Regelwerk noch nicht vollständig enthalten.
+
+---
+
 # Familiencockpit v0.13.0
 
 Neu in v0.13.0:
