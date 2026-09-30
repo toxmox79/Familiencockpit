@@ -1,3 +1,20 @@
+# Familiencockpit v0.13.0
+
+Neu in v0.13.0:
+
+- strukturierte Mindestlaufzeit (Tage/Wochen/Monate/Jahre) und Kündigungsfrist
+- automatische Berechnung des Laufzeitendes aus Vertragsbeginn + Mindestlaufzeit
+- automatische Berechnung des Kündigungstermins aus Laufzeitende minus Kündigungsfrist
+- manuell hinterlegte End- und Kündigungsdaten haben immer Vorrang
+- keine pauschalen gesetzlichen Kündigungsregeln: berechnet wird nur aus den eingetragenen Vertragswerten
+- Frist-Ampel für überfällige, bis 30 Tage und bis 90 Tage liegende Termine
+- bis zu drei wichtige Vertragsfristen direkt im Familiencockpit
+- Filter nach Person, Kategorie, Status und Frist
+- zusätzliche Kategorien: Wohnen/Nebenkosten, Fahrzeug, Schule/Betreuung sowie Software/Cloud
+- bestehende Verträge aus v0.12 bleiben kompatibel
+
+---
+
 # Familiencockpit v0.12.0
 
 Die bisherige Sterbefall-App wird zum **Familiencockpit** weiterentwickelt. Der komplette Todesfall-Assistent bleibt als Modul erhalten.
